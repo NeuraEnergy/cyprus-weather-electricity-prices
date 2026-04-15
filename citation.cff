@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Attribution not required (CC0). If you would like to cite this dataset, the following metadata is provided for convenience."
+title: "Cyprus Weather and Electricity Prices Dataset"
+abstract: >
+  Weather observations for Limassol, Cyprus, joined with Cyprus day-ahead
+  electricity market clearing prices at 30-minute resolution. Released
+  under CC0 1.0 Universal.
+type: dataset
+url: "https://github.com/NeuraEnergy/cyprus-weather-electricity-prices"
+license: CC0-1.0
+keywords:
+  - weather
+  - electricity-market
+  - cyprus
+  - limassol
+  - open-data
+  - day-ahead-market
+  - DAM
+  - energy
