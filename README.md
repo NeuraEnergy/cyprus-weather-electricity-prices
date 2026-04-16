@@ -142,3 +142,9 @@ You are free to copy, modify, distribute, and use the data for any
 purpose — commercial or otherwise — without asking permission, without
 paying, and without attribution. The dataset is provided *as is* with
 no warranty.
+
+---
+
+## Acknowledgement
+
+This work was carried out as part of the SEMDR project (Smart Energy Management & Demand Response Capabilities for Sustainable Industry, COM-CONCEPT-ENERGY/0624/0160), implemented within the framework of the Cyprus Recovery and Resilience Plan "Cyprus tomorrow" with funding from the European Union — NextGenerationEU, through the Research and Innovation Foundation.
